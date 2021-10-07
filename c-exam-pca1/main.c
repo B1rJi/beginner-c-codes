@@ -1,3 +1,4 @@
+/* c program for string operations */
 #include<stdio.h>
 #include<string.h>
 void concat(char[], char[]);
